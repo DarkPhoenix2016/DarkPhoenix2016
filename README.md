@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Charitha%20Piyumal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=DarkPhoenix2016&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Charitha Piyumal</h1>
 <h3 align="center">Undergraduate | Developer | Infrastructure & Cloud Enthusiast</h3>
@@ -7,9 +12,14 @@
 Building modern web platforms, cloud systems, and IoT solutions.
 </p>
 
----
+________________________________________
 
-<img align="right" alt="Coding" height="250" src="https://github.com/DarkPhoenix2016/DarkPhoenix2016/blob/Master/banner1.gif?raw=true">
+  <p align="center" width=100>
+    <img align="center" alt="Coding" height="250" src="https://github.com/DarkPhoenix2016/DarkPhoenix2016/blob/Master/banner1.gif?raw=true">
+  </p>
+
+  
+______________________________________
 
 ## 👨‍💻 About Me
 
@@ -18,7 +28,6 @@ Building modern web platforms, cloud systems, and IoT solutions.
 🖥 Interested in **Virtualization, Backend Systems, and Real-time Applications**  
 🌱 Continuously learning **modern development technologies and scalable architectures**
 
----
 
 ## 🚀 Projects
 
